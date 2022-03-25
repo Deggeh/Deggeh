@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/771482065886511175
                             )](https://discord.com/users/771482065886511175)
 ## 📋 About me
-Hi, I'm Diego, a random person who thinks he knows how to program something lol (laughing at nervous).
+Hi, I'm Diego! A random person who thinks he knows how to program something lol (laughing at nervous).
 <details>
   <summary>📊 Some stats of me</summary>
 
@@ -10,7 +10,7 @@ Hi, I'm Diego, a random person who thinks he knows how to program something lol 
 </details>
 
 <details>
-<summary> 🌺 My recent AniList activity</summary>
+<summary> 🎭 My recent AniList activity</summary>
 
 Coming soon
 <!-- ANILIST_ACTIVITY:start -->

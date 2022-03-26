@@ -13,9 +13,13 @@ Hi, I'm Diego!<br> A random person who thinks he knows how to program something 
 <summary> 🌸 Some activity</summary>
 Coming soon...
 </details>
+
+<details>
+<summary> 📌 Support me</summary>
 <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)
+</details>
 
 ##
 

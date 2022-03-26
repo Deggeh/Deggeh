@@ -26,7 +26,7 @@ Hi, I'm Diego!<br> A random person who thinks he knows how to program something 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)
 </details>
 
-##
+---
 
 ![](https://komarev.com/ghpvc/?username=Deggeh&color=b0c4de)
 

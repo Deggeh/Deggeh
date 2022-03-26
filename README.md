@@ -2,20 +2,22 @@
                             )](https://discord.com/users/771482065886511175)
 ## 📋 About me
 Hi, I'm Diego!<br> A random person who thinks he knows how to program something lol (laughing nervously).
+
+![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)
+
 <details>
-  <summary>📊 Some stats of me</summary><br>
+  <summary>📊 <b>Some stats of me</b></summary><br>
 
 ![My github stats!](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=nord&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true) 
 ![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=Deggeh&show_icons=true&theme=nord&custom_title=My%20most%20used%20languages:&layout=compact&card_width=445) 
 </details>
-
 <details>
-<summary> 🌸 Some activity</summary>
+<summary> 🌸 <b>Some activity</b></summary>
 Coming soon...
 </details>
 
 <details>
-<summary> 📌 Support me</summary>
+<summary> 📌 <b>Support me</b></summary>
 <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)

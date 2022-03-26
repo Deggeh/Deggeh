@@ -18,6 +18,6 @@ Coming soon
 <!-- ANILIST_ACTIVITY:end -->
 
 </details>
-
 <br>
+
 ![](https://komarev.com/ghpvc/?username=Deggeh&color=ff69b4)

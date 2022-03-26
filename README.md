@@ -1,19 +1,20 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/771482065886511175
                             )](https://discord.com/users/771482065886511175)
 ## 📋 About me
-Hi, I'm Diego!<br> A random person who thinks he knows how to program something lol (laughing nervously).
+Hi, I'm Diego!<br> A random person who thinks he knows how to program something lol (laughing nervously). 
 
 ![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)
 
 <details>
   <summary>📊 <b>Some stats of me</b></summary><br>
 
-![My github stats!](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=nord&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true) 
-![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=Deggeh&show_icons=true&theme=nord&custom_title=My%20most%20used%20languages:&layout=compact&card_width=445) 
+![My github stats!](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=nord&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true)
 </details>
+
 <details>
-<summary> 🌸 <b>Some activity</b></summary>
-Coming soon...
+<summary> ⚙️ <b>Favorite languages</b></summary><br>
+
+<a href="https://www.python.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
 </details>
 
 <details>

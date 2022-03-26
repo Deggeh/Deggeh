@@ -10,13 +10,8 @@ Hi, I'm Diego!<br> A random person who thinks he knows how to program something 
 </details>
 
 <details>
-<summary> 🎭 My recent AniList activity</summary>
-
-Coming soon
-<!-- ANILIST_ACTIVITY:start -->
-
-<!-- ANILIST_ACTIVITY:end -->
-
+<summary> 🌸 Some activity</summary>
+Coming soon...
 </details>
 <br>
 

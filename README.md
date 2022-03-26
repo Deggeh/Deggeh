@@ -19,5 +19,5 @@ Coming soon
 
 </details>
 
-
+<br>
 ![](https://komarev.com/ghpvc/?username=Deggeh&color=ff69b4)

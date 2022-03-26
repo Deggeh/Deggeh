@@ -15,4 +15,9 @@ Coming soon...
 </details>
 <br>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)
+
+##
+
 ![](https://komarev.com/ghpvc/?username=Deggeh&color=b0c4de)
+

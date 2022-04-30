@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/771482065886511175
                             )](https://discord.com/users/771482065886511175)
 ## 📋 About me
-Hello, I'm Diego!<br> A random garbage who thinks he knows how to program something lol (laughing nervously).<br> 18yo'n Brazilian!
+Hello, I'm Diego!<br> Just a random nub who thinks he knows how to program something lol (laughing nervously).<br> 18yo'n Brazilian!
 
 ![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)
 

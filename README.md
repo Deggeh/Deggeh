@@ -8,7 +8,7 @@ Hello, I'm Diego!<br> A random noob who tries to do something but fails miserabl
 <details>
   <summary>📊 <b>Profile overview</b></summary><br>
 
-![My github stats!](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=nord&custom_title=Deggeh%20Stats:&line_height=33&include_all_commits=true)
+![My github stats!](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=dark&custom_title=Deggeh%20Stats:&line_height=33&include_all_commits=true)
 </details>
 
 <details>

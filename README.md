@@ -1,14 +1,15 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/771482065886511175
                             )](https://discord.com/users/771482065886511175)
 ## 📋 About me
-Hello, I'm Diego!<br> A random noob who tries to do something but fails miserably.<br> ~ 18yo'n Brazilian 🇧🇷
+Hello, I'm Diego!<br> A random noob who tries to do something but fails miserably.<br> 18yo'n Brazilian.
 
 ![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)
 
 <details>
   <summary>📊 <b>Profile overview</b></summary><br>
 
-![My github stats!](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=dark&custom_title=Deggeh%20Stats:&line_height=33&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=dark&custom_title=Deggeh%20Stats:&line_height=33&&count_private=true&card_width=500&layout=compact&include_all_commits=true)](https://github.com/Deggeh)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deggeh&show_icons=true&theme=dark&include_all_commits=true&layout=compact&card_width=500&custom_title=Most%20Used%20Languages:&count_private=true&line_height=33)](https://github.com/Deggeh)
 </details>
 
 <details>

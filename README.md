@@ -3,7 +3,7 @@
 ## 📋 About me
 Hello, I'm Diego!<br> A random noob who tries to do something but fails miserably.<br> 18yo'n Brazilian.
 
-![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)](https://github.com/Deggeh)
 
 <details>
   <summary>📊 <b>Profile overview</b></summary><br>

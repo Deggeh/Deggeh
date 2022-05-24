@@ -30,5 +30,5 @@ Hi there, I'm Diego!<br> A random noob who tries to do something but fails miser
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Deggeh&color=b0c4de)
+[![](https://komarev.com/ghpvc/?username=Deggeh&color=b0c4de)](https://github.com/Deggeh)
 

@@ -22,13 +22,20 @@ Hi there, I'm Diego!<br> A random noob who tries to do something but fails miser
 </details>
 
 <details>
+<summary> 🎵 <b>Recent scrobble</b></summary>
+<br>
+
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Deggeh&count=1)](https://www.last.fm/user/Deggeh)
+</details>
+
+<details>
 <summary> 📌 <b>Support me</b></summary>
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)
+[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)
 </details>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Deggeh&color=b0c4de)](https://github.com/Deggeh)
+[![Profile views](https://komarev.com/ghpvc/?username=Deggeh&color=b0c4de)](https://github.com/Deggeh)
 

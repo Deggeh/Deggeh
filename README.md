@@ -22,10 +22,10 @@ Hi there, I'm Diego!<br> A random noob who tries to do something but fails miser
 </details>
 
 <details>
-<summary> 🎵 <b>Recent scrobble</b></summary>
+<summary> 🎧 <b>Recent scrobble</b></summary>
 <br>
 
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Deggeh&count=1)](https://www.last.fm/user/Deggeh)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Deggeh&count=1&loved=true&loved_style=4&width=500)](https://www.last.fm/user/Deggeh)
 </details>
 
 <details>

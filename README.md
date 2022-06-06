@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/771482065886511175
                             )](https://discord.com/users/771482065886511175)
 ## 📋 About me
-Hi there, I'm Diego!<br> A random noob who tries to do something but fails miserably.<br> 18yo'n Brazilian.<br> I Love Minecraft ♥
+Hi there!<br> My name is Diego!<br> 18yo'n Brazilian.<br>And... I Love Minecraft ♥
 
 [![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)](https://github.com/Deggeh)
 

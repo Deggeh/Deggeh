@@ -13,7 +13,7 @@ Hi there! 👋<br> My name is Diego.<br> 18yo'n Brazilian.<br>And... I Love Mine
 </details>
 
 <details>
-<summary> ⚙️ <b>Languages and tools</b></summary><br>
+<summary> ⚙️ <b>Languages and tools (Studying)</b></summary><br>
 
 <a href="https://www.python.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.photoshop.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>

@@ -1,15 +1,15 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/771482065886511175
                             )](https://discord.com/users/771482065886511175)
 ## 📋 About me
-Hi there! 👋<br> My name is Diego.<br> 18yo'n Brazilian.<br>And... I Love Minecraft ♥
+Hi there! 👋<br> My name is <b>Diego</b> and I am <b>18yo</b>.<br> That is all.
 
-[![GitHub followers](https://img.shields.io/github/followers/Deggeh?style=social)](https://github.com/Deggeh)
+[![My github followers](https://img.shields.io/github/followers/Deggeh?style=social)](https://github.com/Deggeh)
 
 <details>
   <summary>📊 <b>Profile overview</b></summary><br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=dark&custom_title=Deggeh%20Stats:&line_height=33&&count_private=true&card_width=500&layout=compact&include_all_commits=true)](https://github.com/Deggeh)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deggeh&show_icons=true&theme=dark&include_all_commits=true&layout=compact&card_width=500&custom_title=Most%20Used%20Languages:&count_private=true&line_height=33)](https://github.com/Deggeh)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=dark&custom_title=Deggeh%20Stats:&line_height=33&&count_private=true&card_width=500&layout=compact&include_all_commits=true)](https://github.com/Deggeh)
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deggeh&show_icons=true&theme=dark&include_all_commits=true&layout=compact&card_width=500&custom_title=Most%20Used%20Languages:&count_private=true&line_height=33)](https://github.com/Deggeh)
 </details>
 
 <details>
@@ -32,7 +32,7 @@ Hi there! 👋<br> My name is Diego.<br> 18yo'n Brazilian.<br>And... I Love Mine
 <summary> 📌 <b>Support me</b></summary>
 <br>
 
-[![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)
+[![My ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deggeh)
 </details>
 
 ---

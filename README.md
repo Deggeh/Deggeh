@@ -2,6 +2,13 @@
                             )](https://discord.com/users/771482065886511175)
 <details>
   <summary>
+    📙 About
+  </summary>
+
+Nobody cares.
+
+<details>
+  <summary>
     🌸 My recent AniList activity
   </summary>
 

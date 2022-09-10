@@ -7,6 +7,8 @@
 
 Nobody cares.
 
+</details>
+
 <details>
   <summary>
     🌸 My recent AniList activity

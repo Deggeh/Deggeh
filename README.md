@@ -42,7 +42,7 @@
 
 <a href="https://anilist.co/user/Deggeh">
   <img 
-    src="https://media.discordapp.net/attachments/1005612225303683092/1018352417877790773/1662864513408.jpg"
+    src="https://github.com/Deggeh/Deggeh/blob/75d3db9ad07406491496215eb875f61840a2902d/images/alp.jpg"
     alt="Deggeh anilist profile"
     width=""
   />

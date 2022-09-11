@@ -62,4 +62,4 @@
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=Deggeh&color=ff69b4)](https://github.com/Deggeh)
+[![Profile views](https://komarev.com/ghpvc/?username=Deggeh&style=for-the-badge&label=PROFILE+VIEWS&color=ff69b4)](https://github.com/Deggeh)

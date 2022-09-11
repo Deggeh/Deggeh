@@ -50,11 +50,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed None of [Peter Grill and the Philosopher's Time](https://anilist.co/anime/111965) (07:12, 11 September 2022)
 -   📺 Watched episode 2 of [The Lost Village](https://anilist.co/anime/21567) (03:58, 11 September 2022)
 -   📺 Watched episode 21 of [Aoashi](https://anilist.co/anime/134732) (03:58, 11 September 2022)
 -   📺 Watched episode 10 of [Call of the Night](https://anilist.co/anime/141391) (03:58, 11 September 2022)
 -   📺 Dropped None of [Harem in the Labyrinth of Another World](https://anilist.co/anime/127090) (07:09, 09 September 2022)
--   📺 Watched episode 1 of [The Lost Village](https://anilist.co/anime/21567) (06:28, 09 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

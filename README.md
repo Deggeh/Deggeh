@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (04:26, 13 September 2022)
 -   📺 Watched episode 236 of [Boruto: Naruto Next Generations](https://anilist.co/anime/97938) (04:54, 12 September 2022)
 -   📺 Watched episode 21 - 22 of [Aoashi](https://anilist.co/anime/134732) (02:22, 12 September 2022)
 -   📺 Completed None of [Peter Grill and the Philosopher's Time](https://anilist.co/anime/111965) (07:12, 11 September 2022)
 -   📺 Watched episode 2 of [The Lost Village](https://anilist.co/anime/21567) (03:58, 11 September 2022)
--   📺 Watched episode 10 of [Call of the Night](https://anilist.co/anime/141391) (03:58, 11 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

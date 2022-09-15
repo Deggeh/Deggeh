@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [My Stepmom's Daughter is My Ex](https://anilist.co/anime/136934) (15:13, 15 September 2022)
+-   📺 Watched episode 7 of [BASTARD!! -Heavy Metal, Dark Fantasy-](https://anilist.co/anime/144677) (15:13, 15 September 2022)
 -   📺 Plans to watch None of [TONIKAWA: Over The Moon For You Special Episode](https://anilist.co/anime/141212) (06:47, 15 September 2022)
 -   📺 Plans to watch None of [None](https://anilist.co/anime/125910) (06:47, 15 September 2022)
 -   📺 Plans to watch None of [None](https://anilist.co/anime/146438) (06:47, 15 September 2022)
--   📺 Plans to watch None of [None](https://anilist.co/anime/131182) (06:46, 15 September 2022)
--   📺 Plans to watch None of [None](https://anilist.co/anime/144533) (06:46, 15 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

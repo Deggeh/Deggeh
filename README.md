@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed None of [Let You Down](https://anilist.co/anime/154591) (05:49, 14 September 2022)
--   📺 Watched episode 8 of [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (05:43, 14 September 2022)
--   📺 Watched episode 11 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (04:26, 13 September 2022)
--   📺 Watched episode 236 of [Boruto: Naruto Next Generations](https://anilist.co/anime/97938) (04:54, 12 September 2022)
--   📺 Watched episode 21 - 22 of [Aoashi](https://anilist.co/anime/134732) (02:22, 12 September 2022)
+-   📺 Plans to watch None of [TONIKAWA: Over The Moon For You Special Episode](https://anilist.co/anime/141212) (06:47, 15 September 2022)
+-   📺 Plans to watch None of [None](https://anilist.co/anime/125910) (06:47, 15 September 2022)
+-   📺 Plans to watch None of [None](https://anilist.co/anime/146438) (06:47, 15 September 2022)
+-   📺 Plans to watch None of [None](https://anilist.co/anime/131182) (06:46, 15 September 2022)
+-   📺 Plans to watch None of [None](https://anilist.co/anime/144533) (06:46, 15 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

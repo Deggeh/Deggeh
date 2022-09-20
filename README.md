@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed None of [Drifting Home](https://anilist.co/anime/139643) (17:46, 20 September 2022)
 -   📺 Watched episode 12 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (03:08, 20 September 2022)
 -   📺 Watched episode 23 of [Aoashi](https://anilist.co/anime/134732) (00:34, 19 September 2022)
 -   📺 Watched episode 1 of [None](https://anilist.co/anime/21557) (04:44, 17 September 2022)
 -   📺 Watched episode 11 of [Call of the Night](https://anilist.co/anime/141391) (03:13, 16 September 2022)
--   📺 Watched episode 11 of [My Stepmom's Daughter is My Ex](https://anilist.co/anime/136934) (15:13, 15 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

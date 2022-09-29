@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (23:26, 28 September 2022)
 -   📺 Completed None of [Overlord IV](https://anilist.co/anime/133844) (05:35, 28 September 2022)
 -   📺 Completed None of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (19:41, 26 September 2022)
 -   📺 Plans to watch None of [None](https://anilist.co/anime/154967) (18:43, 24 September 2022)
 -   📺 Completed None of [My Stepmom's Daughter is My Ex](https://anilist.co/anime/136934) (17:00, 22 September 2022)
--   📺 Completed None of [CYBERPUNK: EDGERUNNERS](https://anilist.co/anime/120377) (17:00, 22 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed None of [Call of the Night](https://anilist.co/anime/141391) (07:01, 30 September 2022)
 -   📺 Watched episode 1 of [Sound! Euphonium](https://anilist.co/anime/20912) (02:41, 29 September 2022)
 -   📺 Plans to watch None of [Liz and the Blue Bird](https://anilist.co/anime/100178) (02:17, 29 September 2022)
 -   📺 Watched episode 1 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (23:26, 28 September 2022)
 -   📺 Completed None of [Overlord IV](https://anilist.co/anime/133844) (05:35, 28 September 2022)
--   📺 Completed None of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (19:41, 26 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

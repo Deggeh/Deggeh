@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Eden of The East](https://anilist.co/anime/5630) (07:48, 03 October 2022)
 -   📺 Plans to watch None of [Break of Dawn](https://anilist.co/anime/146489) (06:04, 03 October 2022)
 -   📺 Plans to watch None of [None](https://anilist.co/anime/145739) (06:04, 03 October 2022)
 -   📺 Plans to watch None of [None](https://anilist.co/anime/139311) (06:03, 03 October 2022)
 -   📺 Plans to watch None of [None](https://anilist.co/anime/139310) (06:02, 03 October 2022)
--   📺 Plans to watch None of [Peter Grill and the Philosopher’s Time - Super Extra](https://anilist.co/anime/141400) (06:02, 03 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

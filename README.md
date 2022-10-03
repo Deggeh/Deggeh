@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed None of [Call of the Night](https://anilist.co/anime/141391) (07:01, 30 September 2022)
--   📺 Watched episode 1 of [Sound! Euphonium](https://anilist.co/anime/20912) (02:41, 29 September 2022)
--   📺 Plans to watch None of [Liz and the Blue Bird](https://anilist.co/anime/100178) (02:17, 29 September 2022)
--   📺 Watched episode 1 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (23:26, 28 September 2022)
--   📺 Completed None of [Overlord IV](https://anilist.co/anime/133844) (05:35, 28 September 2022)
+-   📺 Plans to watch None of [Break of Dawn](https://anilist.co/anime/146489) (06:04, 03 October 2022)
+-   📺 Plans to watch None of [None](https://anilist.co/anime/145739) (06:04, 03 October 2022)
+-   📺 Plans to watch None of [None](https://anilist.co/anime/139311) (06:03, 03 October 2022)
+-   📺 Plans to watch None of [None](https://anilist.co/anime/139310) (06:02, 03 October 2022)
+-   📺 Plans to watch None of [Peter Grill and the Philosopher’s Time - Super Extra](https://anilist.co/anime/141400) (06:02, 03 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

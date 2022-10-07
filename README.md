@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 of [Eden of The East](https://anilist.co/anime/5630) (07:48, 03 October 2022)
--   📺 Plans to watch None of [Break of Dawn](https://anilist.co/anime/146489) (06:04, 03 October 2022)
--   📺 Plans to watch None of [None](https://anilist.co/anime/145739) (06:04, 03 October 2022)
--   📺 Plans to watch None of [None](https://anilist.co/anime/139311) (06:03, 03 October 2022)
--   📺 Plans to watch None of [None](https://anilist.co/anime/139310) (06:02, 03 October 2022)
+-   📺 Watched episode 1 of [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (23:05, 07 October 2022)
+-   📺 Watched episode 2 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (23:02, 07 October 2022)
+-   📺 Watched episode 1 of [Shinobi no Ittoki](https://anilist.co/anime/145604) (23:02, 07 October 2022)
+-   📺 Watched episode 1 of [The Eminence in Shadow](https://anilist.co/anime/130298) (23:01, 07 October 2022)
+-   📺 Watched episode 4 - 8 of [Eden of The East](https://anilist.co/anime/5630) (22:56, 07 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [The Daily Life of the Immortal King Season 3](https://anilist.co/anime/141852) (15:29, 09 October 2022)
+-   📺 Watched episode 1 of [BLUELOCK](https://anilist.co/anime/137822) (15:29, 09 October 2022)
 -   📺 Watched episode 2 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:56, 08 October 2022)
 -   📺 Watched episode 2 of [Uzaki-chan Wants to Hang Out! Season 2](https://anilist.co/anime/124395) (18:56, 08 October 2022)
 -   📺 Watched episode 3 of [I'm the Villainess, So I'm Taming the Final Boss](https://anilist.co/anime/139820) (18:56, 08 October 2022)
--   📺 Watched episode 1 of [BOCCHI THE ROCK!](https://anilist.co/anime/130003) (18:54, 08 October 2022)
--   📺 Watched episode 1 of [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (23:05, 07 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

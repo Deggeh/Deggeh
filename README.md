@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Chainsaw Man](https://anilist.co/anime/127230) (18:36, 11 October 2022)
 -   📺 Watched episode 2 of [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (06:42, 11 October 2022)
 -   📺 Watched episode 1 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (02:42, 10 October 2022)
 -   📺 Watched episode 3 of [The Daily Life of the Immortal King Season 3](https://anilist.co/anime/141852) (15:29, 09 October 2022)
 -   📺 Watched episode 1 of [BLUELOCK](https://anilist.co/anime/137822) (15:29, 09 October 2022)
--   📺 Watched episode 2 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:56, 08 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed None of [Green Snake](https://anilist.co/anime/130190) (18:54, 12 October 2022)
+-   📺 Watched episode 2 of [Shinobi no Ittoki](https://anilist.co/anime/145604) (18:37, 12 October 2022)
 -   📺 Watched episode 1 of [Chainsaw Man](https://anilist.co/anime/127230) (18:36, 11 October 2022)
 -   📺 Watched episode 2 of [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (06:42, 11 October 2022)
 -   📺 Watched episode 1 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (02:42, 10 October 2022)
--   📺 Watched episode 3 of [The Daily Life of the Immortal King Season 3](https://anilist.co/anime/141852) (15:29, 09 October 2022)
--   📺 Watched episode 1 of [BLUELOCK](https://anilist.co/anime/137822) (15:29, 09 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

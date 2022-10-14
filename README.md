@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed None of [Green Snake](https://anilist.co/anime/130190) (18:54, 12 October 2022)
--   📺 Watched episode 2 of [Shinobi no Ittoki](https://anilist.co/anime/145604) (18:37, 12 October 2022)
--   📺 Watched episode 1 of [Chainsaw Man](https://anilist.co/anime/127230) (18:36, 11 October 2022)
--   📺 Watched episode 2 of [I've Somehow Gotten Stronger When I Improved My Farm-Related Skills](https://anilist.co/anime/145815) (06:42, 11 October 2022)
--   📺 Watched episode 1 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (02:42, 10 October 2022)
+-   📺 Dropped 1 of [LOVE FLOPS](https://anilist.co/anime/146676) (05:52, 14 October 2022)
+-   📺 Completed None of [Eden of The East the Movie I: The King of Eden](https://anilist.co/anime/6372) (05:51, 14 October 2022)
+-   📺 Completed None of [Eden of The East](https://anilist.co/anime/5630) (05:50, 14 October 2022)
+-   📺 Watched episode 9 - 10 of [Eden of The East](https://anilist.co/anime/5630) (05:50, 14 October 2022)
+-   📺 Watched episode 2 of [None](https://anilist.co/anime/153567) (05:49, 14 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Legend of Mana -The Teardrop Crystal-](https://anilist.co/anime/136150) (06:55, 15 October 2022)
 -   📺 Dropped 1 of [LOVE FLOPS](https://anilist.co/anime/146676) (05:52, 14 October 2022)
 -   📺 Completed None of [Eden of The East the Movie I: The King of Eden](https://anilist.co/anime/6372) (05:51, 14 October 2022)
 -   📺 Completed None of [Eden of The East](https://anilist.co/anime/5630) (05:50, 14 October 2022)
 -   📺 Watched episode 9 - 10 of [Eden of The East](https://anilist.co/anime/5630) (05:50, 14 October 2022)
--   📺 Watched episode 2 of [None](https://anilist.co/anime/153567) (05:49, 14 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (18:09, 16 October 2022)
+-   📺 Watched episode 3 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:08, 16 October 2022)
 -   📺 Watched episode 2 of [BLUELOCK](https://anilist.co/anime/137822) (15:22, 16 October 2022)
 -   📺 Watched episode 4 of [The Daily Life of the Immortal King Season 3](https://anilist.co/anime/141852) (15:22, 16 October 2022)
 -   📺 Watched episode 2 of [Legend of Mana -The Teardrop Crystal-](https://anilist.co/anime/136150) (06:55, 15 October 2022)
--   📺 Dropped 1 of [LOVE FLOPS](https://anilist.co/anime/146676) (05:52, 14 October 2022)
--   📺 Completed None of [Eden of The East the Movie I: The King of Eden](https://anilist.co/anime/6372) (05:51, 14 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

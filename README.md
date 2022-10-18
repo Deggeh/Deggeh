@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed None of [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (04:45, 18 October 2022)
+-   📺 Watched episode 3 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (04:43, 18 October 2022)
+-   📺 Watched episode 4 of [I'm the Villainess, So I'm Taming the Final Boss](https://anilist.co/anime/139820) (04:30, 18 October 2022)
 -   📺 Watched episode 2 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (18:09, 16 October 2022)
 -   📺 Watched episode 3 of [SPY x FAMILY Cour 2](https://anilist.co/anime/142838) (18:08, 16 October 2022)
--   📺 Watched episode 2 of [BLUELOCK](https://anilist.co/anime/137822) (15:22, 16 October 2022)
--   📺 Watched episode 4 of [The Daily Life of the Immortal King Season 3](https://anilist.co/anime/141852) (15:22, 16 October 2022)
--   📺 Watched episode 2 of [Legend of Mana -The Teardrop Crystal-](https://anilist.co/anime/136150) (06:55, 15 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

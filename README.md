@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [The Eminence in Shadow](https://anilist.co/anime/130298) (01:56, 22 October 2022)
+-   📺 Watched episode 3 of [Shinobi no Ittoki](https://anilist.co/anime/145604) (01:55, 22 October 2022)
+-   📺 Watched episode 4 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (01:55, 22 October 2022)
+-   📺 Watched episode 3 of [Uzaki-chan Wants to Hang Out! Season 2](https://anilist.co/anime/124395) (01:54, 22 October 2022)
 -   📺 Watched episode 2 of [Chainsaw Man](https://anilist.co/anime/127230) (20:05, 18 October 2022)
--   📺 Completed None of [JUJUTSU KAISEN 0](https://anilist.co/anime/131573) (04:45, 18 October 2022)
--   📺 Watched episode 3 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (04:43, 18 October 2022)
--   📺 Watched episode 4 of [I'm the Villainess, So I'm Taming the Final Boss](https://anilist.co/anime/139820) (04:30, 18 October 2022)
--   📺 Watched episode 2 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (18:09, 16 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

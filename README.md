@@ -51,11 +51,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed None of [Yasuke](https://anilist.co/anime/131930) (18:42, 22 October 2022)
 -   📺 Watched episode 2 - 3 of [The Eminence in Shadow](https://anilist.co/anime/130298) (01:56, 22 October 2022)
 -   📺 Watched episode 3 of [Shinobi no Ittoki](https://anilist.co/anime/145604) (01:55, 22 October 2022)
 -   📺 Watched episode 4 of [Reincarnated as a Sword](https://anilist.co/anime/139587) (01:55, 22 October 2022)
 -   📺 Watched episode 3 of [Uzaki-chan Wants to Hang Out! Season 2](https://anilist.co/anime/124395) (01:54, 22 October 2022)
--   📺 Watched episode 2 of [Chainsaw Man](https://anilist.co/anime/127230) (20:05, 18 October 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 

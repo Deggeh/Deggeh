@@ -1,9 +1,7 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/771482065886511175
+[![Discord Presence](https://discord-readme-badge.vercel.app/api?id=771482065886511175
                             )](https://discord.com/users/771482065886511175)
 
-### 📕 About me
-
--  🐔 Nobody cares.
+### 📕 About me [ × ]
 
 <br>
 

@@ -11,8 +11,8 @@
   </summary>
 <br>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=radical&show_owner=true&custom_title=Deggeh%20stats:&line_height=33&include_all_commits=true&count_private=true)](https://github.com/Deggeh)
-[![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=Deggeh&show_icons=true&theme=radical&show_owner=true&count_private=true&custom_title=Most%20used%20languages:&layout=compact&card_width=445)](https://github.com/Deggeh)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Deggeh&show_icons=true&theme=dark&show_owner=true&custom_title=Deggeh%20stats:&line_height=33&include_all_commits=true&count_private=true)](https://github.com/Deggeh)
+[![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=Deggeh&show_icons=true&theme=dark&show_owner=true&count_private=true&custom_title=Most%20used%20languages:&layout=compact&card_width=445)](https://github.com/Deggeh)
 
 </details>
 

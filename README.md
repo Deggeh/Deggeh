@@ -3,8 +3,6 @@
 
 ### 📕 About me [ × ]
 
-<br>
-
 <details>
   <summary>
     <b>
